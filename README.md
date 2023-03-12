@@ -1,2 +1,2 @@
-A simple drawing game where you can select the grid size. <br />
+A simple drawing game in which you can select the grid size. <br />
 #TheOdinProject
